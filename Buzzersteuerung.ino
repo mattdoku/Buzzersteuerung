@@ -18,7 +18,7 @@ int Buzzer_PIN= 12;        // setzten des setzen des Digital-PINs zum auslesen d
 
 // Zeiten [ms]
 int Entprellzeit= 5;    // setzen der Entprellzeit
-int Fokusierzeit= 300;  // setzen der Wartezeit für die Fokusierung
+int Fokusierzeit= 250;  // setzen der Wartezeit für die Fokusierung
 int Haltezeit= 100;     // setzen der Ausloeserhaltezeit
 int Todzeit= 1800;      // setzen der Todzeit des Ausloesers
 
