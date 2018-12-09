@@ -1,7 +1,7 @@
 /* Knipskiste 2
  * DSLR-Kameraansteuerung mittels Buzzer
  * 
- * 17.11.2018
+ * 09.12.2018
  * Dr. Matthias Offer
  * 
  * Buzzer zwischen Buzzer_PIN und GND
